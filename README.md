@@ -21,15 +21,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+junior+en+Python;Apasionado+por+la+tecnología;Siempre+aprendiendo&center=true&width=380&height=45">
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/m4b1ts">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/6i7fx3s">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
 ## Sobre mí 🚀
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
