@@ -86,7 +86,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. C
 <br>
 <br>
 <h2 align="center">Spotify Playing 🎧</h2>
-[![Spotify](https://vercel.com/nw24shs-projects/sphub/GoyC9WUZ9bJn18KRmcy2xGm2R5Xt.vercel.app/api/spotify)](https://open.spotify.com/user/31cdl73eibnfq4vqk7fef7wjvbve)
+[![Spotify](https://sphub-jkmhg38zr-nw24shs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31cdl73eibnfq4vqk7fef7wjvbve)
 
 <br>
 <br>
