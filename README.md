@@ -57,9 +57,6 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. C
   <a href="https://github.com/h3nr1d3v/Skirk">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=h3nr1d3v&repo=skirk&theme=radical" alt="SkirkBOT">
   </a>
-  <a href="https://github.com/h3nr1d3v/proyecto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=h3nr1d3v&repo=proyecto-2&theme=radical" alt="Proyecto 2">
-  </a>
 </p>
 
 ## Estadísticas de GitHub 📊
