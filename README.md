@@ -98,7 +98,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. C
 
 ## Spotify Playing 🎧
 
-[![Spotify](https://sphub-nw24shs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31cdl73eibnfq4vqk7fef7wjvbve)
+[![Spotify](https://sphub.vercel.app/api/spotify)](https://open.spotify.com/user/31cdl73eibnfq4vqk7fef7wjvbve)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=h3nr1d3v&color=blueviolet" alt="Visitas al perfil">
