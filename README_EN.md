@@ -1,20 +1,20 @@
 <p align="center">
-<img width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img width="500" height="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif">
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Henry+P's+GitHub!;Bienvenido+al+GitHub+de+Henry+P!&center=true&width=380&height=45">
 </p>
 
 <p align="center">
-  <a href="https://github.com/h3nr1d3v/h3nr1d3v/blob/main/README_EN.md">
-    <img src="https://img.shields.io/badge/English-Read%20Here-blue?style=for-the-badge" alt="English">
-  </a>
   <a href="https://github.com/h3nr1d3v/h3nr1d3v/blob/main/README.md">
     <img src="https://img.shields.io/badge/Español-Leer%20Aquí-red?style=for-the-badge" alt="Español">
   </a>
 </p>
 
+<br>
+<br>
 <h1 align="center">Hi, I'm Henry P! 👋</h1>
 
 <p align="center">
