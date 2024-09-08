@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/h3nr1d3v/h3nr1d3v/main/assets/github-header-image.png)
+<p align="center">
+<img width="300" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Henry+P's+GitHub!;Bienvenido+al+GitHub+de+Henry+P!&center=true&width=380&height=45">
