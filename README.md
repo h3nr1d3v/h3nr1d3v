@@ -10,7 +10,7 @@
   <a href="https://github.com/h3nr1d3v/h3nr1d3v/blob/main/README_EN.md">
     <img src="https://img.shields.io/badge/English-Read%20Here-blue?style=for-the-badge" alt="English">
   </a>
-  <a href="https://h3nr1d3v.github.io/README_ES.md">
+  <a href="https://github.com/h3nr1d3v/h3nr1d3v/blob/main/README.md">
     <img src="https://img.shields.io/badge/Español-Leer%20Aquí-red?style=for-the-badge" alt="Español">
   </a>
 </p>
