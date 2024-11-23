@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Henry+P's+GitHub!;Bienvenido+al+GitHub+de+Henry+P!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+al+GitHub+de+Henry+P!&center=true&width=380&height=45">
 </p>
 
 <p align="center">
