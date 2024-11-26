@@ -77,10 +77,9 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. C
 <br>
 <h2 align="center">Conéctate conmigo 🤝</h2>
 
-<p align="center">
-  <a href="https://twitter.com/m4b1ts"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.instagram.com/6i7fx3s"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-</p>
+  <p align="center">
+  <a href="h3nr1d3v@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
 
 <br>
 <br>
