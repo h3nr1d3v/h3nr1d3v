@@ -51,8 +51,8 @@ I am a developer passionate about creating innovative and efficient solutions. W
 <h2 align="center">Featured Projects 🌟</h2>
 
 <p align="center">
-  <a href="https://github.com/h3nr1d3v/Skirk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=h3nr1d3v&repo=skirk&theme=radical" alt="SkirkBOT">
+  <a href="https://github.com/h3nr1d3v/NekoShell">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=h3nr1d3v&repo=nekoshell&theme=radical" alt="NekoShell">
   </a>
 </p>
 
